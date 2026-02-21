@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sscodehub.web.app/sitemap.xml
